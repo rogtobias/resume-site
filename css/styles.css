@@ -1,0 +1,11 @@
+.header {
+  font-weight: bold;
+}
+
+.main {
+  font-style: italic;
+}
+
+.highlight {
+  color: red;
+}
